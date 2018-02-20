@@ -15,3 +15,12 @@ Suggests: testthat
 License: GPL-3
 MD5sum: 929c379920de6aa4b182bd3cfea0688c
 NeedsCompilation: yes
+
+Package: synapser
+Version: 0.1.25
+Depends: PythonEmbedInR(>= 0.1.11), R(>= 3.3), methods, rjson
+Imports: PythonEmbedInR
+Suggests: testthat, knitr, rmarkdown
+License: GPL
+MD5sum: 189a3db7da0ab6335016e9ee44ded2cd
+NeedsCompilation: no
