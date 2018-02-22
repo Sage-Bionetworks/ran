@@ -1,3 +1,5 @@
+![Sage Bionetworks logo](sage-bionetworks.png)
+
 # Sage Bionetworks R Archive Network
 
 This is the Sage Bionetworks R Archive Network (RAN) - a CRAN-like repository for R packages published by Sage Bionetworks.
