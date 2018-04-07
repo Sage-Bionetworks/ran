@@ -7,6 +7,14 @@ License: GPL-3
 MD5sum: 070eeb19105a5c0f3658d5e1ba69680a
 
 Package: PythonEmbedInR
+Version: 0.1.15
+Depends: R (>= 2.15), R6
+Imports: pack, methods, stats
+Suggests: testthat
+License: GPL-3
+MD5sum: 18d162266b60b313b8913403a705876b
+
+Package: PythonEmbedInR
 Version: 0.1.2
 Depends: R (>= 2.15), R6
 Imports: pack, methods, stats

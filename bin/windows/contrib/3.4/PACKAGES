@@ -7,6 +7,14 @@ License: GPL-3
 Archs: i386, x64
 
 Package: PythonEmbedInR
+Version: 0.1.15
+Depends: R (>= 2.15), R6
+Imports: pack, methods, stats
+Suggests: testthat
+License: GPL-3
+Archs: i386, x64
+
+Package: PythonEmbedInR
 Version: 0.1.2
 Depends: R (>= 2.15), R6
 Imports: pack, methods, stats
