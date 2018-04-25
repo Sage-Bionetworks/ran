@@ -51,3 +51,10 @@ Depends: PythonEmbedInR(>= 0.1.15), R(>= 3.3), methods, rjson
 Imports: PythonEmbedInR
 Suggests: testthat, knitr, rmarkdown
 License: GPL
+
+Package: synapser
+Version: 0.2.30
+Depends: R(>= 3.3), methods
+Imports: PythonEmbedInR(>= 0.2)
+Suggests: testthat, knitr, rmarkdown
+License: Apache License 2.0
