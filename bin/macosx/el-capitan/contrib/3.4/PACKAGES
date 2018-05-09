@@ -78,6 +78,14 @@ Suggests: testthat, knitr, rmarkdown
 License: Apache License 2.0
 MD5sum: 11cc01cf1179e9bffef12e0d1a4ee85a
 
+Package: synapser
+Version: 0.2.35
+Depends: R(>= 3.3)
+Imports: PythonEmbedInR(>= 0.2.21), utils, methods
+Suggests: testthat, knitr, rmarkdown
+License: Apache License 2.0
+MD5sum: 2e2e1542998a8bbf43ac6609e4955ed6
+
 Package: synapserutils
 Version: 0.1.3
 Depends: synapser (>= 0.2)

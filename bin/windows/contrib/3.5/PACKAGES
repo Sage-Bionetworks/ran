@@ -1,0 +1,6 @@
+Package: synapser
+Version: 0.2.35
+Depends: R(>= 3.3)
+Imports: PythonEmbedInR(>= 0.2.21), utils, methods
+Suggests: testthat, knitr, rmarkdown
+License: Apache License 2.0
