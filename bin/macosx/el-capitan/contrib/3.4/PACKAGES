@@ -46,6 +46,14 @@ Suggests: testthat
 License: GPL-3
 MD5sum: d909c4c35cfb7f9a3e73cfbf32d79591
 
+Package: PythonEmbedInR
+Version: 0.2.24
+Depends: R (>= 2.15), R6, rjson
+Imports: pack, methods, stats
+Suggests: testthat
+License: GPL-3
+MD5sum: 28639151f556dee288274b890eef6513
+
 Package: synapser
 Version: 0.1.25
 Depends: PythonEmbedInR(>= 0.1.11), R(>= 3.3), methods, rjson
