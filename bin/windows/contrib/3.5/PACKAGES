@@ -27,6 +27,13 @@ Imports: PythonEmbedInR(>= 0.2.24), utils, methods
 Suggests: testthat, knitr, rmarkdown
 License: Apache License 2.0
 
+Package: synapser
+Version: 0.3.40
+Depends: R(>= 3.3)
+Imports: PythonEmbedInR(>= 0.2.24), utils, methods
+Suggests: testthat, knitr, rmarkdown
+License: Apache License 2.0
+
 Package: synapserutils
 Version: 0.1.4
 Depends: synapser (>= 0.2)
