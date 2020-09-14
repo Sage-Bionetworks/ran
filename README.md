@@ -1,3 +1,5 @@
+# This repository formerly hosted Sage Bionetworks' R Archive Network - it is now deprecated in favor of http://ran.synapse.org/
+
 ![Sage Bionetworks logo](sage-bionetworks.png)
 
 # Sage Bionetworks R Archive Network
